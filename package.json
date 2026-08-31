@@ -1,0 +1,16 @@
+{
+  "name": "cli-task-logger",
+  "version": "1.0.0",
+  "description": "Command-Line Task Logger built while learning Node.js fundamentals, one file per task",
+  "main": "task10.js",
+  "scripts": {
+    "start": "node task10.js",
+    "dev": "nodemon task10.js"
+  },
+  "keywords": ["node", "cli", "task-logger"],
+  "author": "Shomik Sahu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
